@@ -1,0 +1,15 @@
+# Hugo 生成文件
+public/
+resources/_gen/
+
+# Hugo 可执行文件
+hugo.exe
+
+# 大文件/媒体文件
+*.mp4
+*.mov
+*.zip
+
+# 系统文件
+.DS_Store
+Thumbs.db
