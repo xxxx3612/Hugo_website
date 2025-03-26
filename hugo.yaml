@@ -2,11 +2,11 @@ baseurl: https://example.com/
 languageCode: en-us
 theme: hugo-theme-stack
 title: Example Site
-copyright: 徐琦轩 Xu Qixuan # 编辑者
+copyright: 徐琦轩 Xu Qixuan
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
-DefaultContentLanguage: zh-cn # 默认语言
+DefaultContentLanguage: zh-cn
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
@@ -199,7 +199,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/xxxx3612
           params:
               icon: brand-github
 
@@ -248,4 +248,3 @@ markup:
         lineNoStart: 1
         lineNos: true
         lineNumbersInTable: true
-        tabWidth: 4

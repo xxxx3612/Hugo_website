@@ -6,7 +6,7 @@ slug: test-chinese
 image: VR-pvz.png
 categories:
     - Unity
-    - VR
+    - 项目
 ---
 
 # 植物大战僵尸VR版
