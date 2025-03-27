@@ -4,7 +4,7 @@ description: "水平2.5像素格斗游戏 Horizontal 2.5 Pixel Fighting Game"
 date: 2023-10-01
 lastmod: 2023-12-30
 slug: unity-game
-image: game.png
+image: scene_design2.png
 categories:
     - Unity
     - 项目
@@ -12,13 +12,13 @@ categories:
 
 # Unity游戏开发项目
 
-Gained primary experience with Unity in the Foundations of Game Design course, developed a 2.5D pixel game, and simulated HD-2D style, covering the complete game development process  Implemented features such as user registration and back-end database integration, and uploaded the game to itch.io successfully \
+Gained primary experience with Unity in the Foundations of Game Design course, developed a 2.5D pixel game, and simulated HD-2D style, covering the complete game development process  Implemented features such as user registration and back-end database integration, and uploaded the game to itch.io successfully \
 在游戏设计基础课程中获得了Unity的初步经验，开发了一款2.5D像素游戏，模拟了HD-2D风格，涵盖了完整的游戏开发过程，并且发布itch.io成功
 
 # 项目时间
 2023年10月 - 2023年12月
 
-# 试玩视频
+# 实机演示
 {{< bilibili BV1EUZuY5E7Q>}}
 
 # 相关技术支持
