@@ -4,7 +4,7 @@ description: "虚拟校园 VR Version of Virtual Campus"
 date: 2024-09-01
 lastmod: 2024-12-30
 slug: virtual-campus
-image: ui1.png
+image: virtual_ui1.png
 categories:
     - Unity
     - 项目
@@ -39,6 +39,6 @@ This experiment is based on the background of the vigorous promotion of smart ca
 # 图片展示
 ![aerotriangulation](picture2.png)  <br>
 ![three-dimensional reconstruction](picture1.png) <br>
-![User interface1](ui2.png)  <br>
-![User interface2](ui3.png) <br>
-![Model display](model.png)  <br>
+![User interface1](virtual_ui2.png)  <br>
+![User interface2](virtual_ui3.png) <br>
+![Model display](virtual_model.png)  <br>
