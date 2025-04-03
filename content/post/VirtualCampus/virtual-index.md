@@ -35,6 +35,8 @@ This experiment is based on the background of the vigorous promotion of smart ca
 在unity游戏引擎中使用Unity-3mx文件实现对于模型施展LOD（Levels of Detail）技术来减缓电脑运行压力，LOD技术指根据物体模型的节点在显示环境中所处的位置和重要度，决定物体渲染的资源分配，降低非重要物体的面数和细节度，从而获得高效率的渲染运算。并在unity引擎中制作建筑指引，相关ui等界面设计的相关内容。
 为了增强校园导览系统的真实感，可以通过网络获取校园周边的卫星图像和高精度的高度图，将两者结合使用在Unity中生成真实的地形模型。从"天地图"获取校园周边的卫星图，从NASA Earthdata下载高精度的地形高程数据。获取这些数据后，可以在Unity中利用Terrain工具导入和处理这些图像，生成三维地形。
 
+# 模型展示
+[Model](https://3d.xuqixuan.cn)
 
 # 图片展示
 ![aerotriangulation](picture2.png)  <br>
