@@ -37,6 +37,7 @@ This experiment is based on the background of the vigorous promotion of smart ca
 
 # 模型展示
 [Model](https://3d.xuqixuan.cn)
+[cesium](https://3dtile.xuqixuan.cn)
 
 # 图片展示
 ![aerotriangulation](picture2.png)  <br>
